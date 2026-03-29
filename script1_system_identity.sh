@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Script 1: System Identity Report
-# Author: Puli Sai Chaithanya Kumar
+# Author: Kurupati Ranganayakulu
 # Course: Open Source Software
 
 # Variables
-STUDENT_NAME="Puli Sai Chaithanya Kumar"
+STUDENT_NAME="Kurupati Ranganayakulu"
 SOFTWARE_CHOICE="Python"
 
 # System information
